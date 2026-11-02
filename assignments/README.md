@@ -11,4 +11,4 @@ jobs/     Slurm job scripts
 docs/     notes and templates
 
 ## Author
-Lara Ruschmeyer
+Lara Ruschmeyer, 02. Nov 2026
