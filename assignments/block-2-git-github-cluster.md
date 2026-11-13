@@ -156,7 +156,7 @@ ws_list
 
 ```bash
 cd $HOME
-git clone https://github.com/YOUR-USER/datascience_env_monit.git
+git clone https://github.com/larars/datascience_env_monit.git
 cd datascience_env_monit
 git log --oneline
 ```
